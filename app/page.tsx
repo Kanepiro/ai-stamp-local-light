@@ -69,7 +69,7 @@ export default function Home() {
       <div className="card">
         <div className="header">
           <div className="title">AI-Stamp Local</div>
-          <div className="version">v4.0.012</div>
+          <div className="version">v5.0.001</div>
         </div>
 
         <div className="row">
